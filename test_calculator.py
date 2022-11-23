@@ -14,10 +14,6 @@ def test_multiply():
 
 def test_divide():
     assert calculator.divide(1, 2) == 0.5
-    
-
-def test_divide_by_zero():
-    assert calculator.divide(1, 0) == 0
 
 
 def test_add_then_subtract():
