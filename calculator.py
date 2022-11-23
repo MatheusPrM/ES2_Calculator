@@ -47,6 +47,3 @@ while True:
     if choice == "5":
         break
     calculate()
-
-if __name__ == "main":
-    calculate()
