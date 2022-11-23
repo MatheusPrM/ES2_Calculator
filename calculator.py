@@ -42,8 +42,8 @@ def calculate():
         print(divide(a, b))
 
 
-# while True:
-#     choice = menu()
-#     if choice == "5":
-#         break
-#     calculate()
+while False:
+    choice = menu()
+    if choice == "5":
+        break
+    calculate()
